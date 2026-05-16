@@ -35,9 +35,9 @@ events:
     found: "C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
     search_context:
       ENV{PATH}:
+        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
-        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
@@ -47,6 +47,8 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -55,6 +57,7 @@ events:
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Antigravity\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\LAPTOP\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "C:\\Dev\\SDK\\flutter\\bin\\mingit\\cmd"
   -
     kind: "message-v1"
@@ -72,7 +75,7 @@ events:
       The output was:
       0
       MSBuild version 18.4.0+6e61e96ac for .NET Framework
-      Build started 5/16/2026 6:08:07 AM.
+      Build started 5/16/2026 4:34:07 PM.
       
       Project "C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\4.2.3-msvc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -101,7 +104,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:04.35
+      Time Elapsed 00:00:02.36
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -134,9 +137,9 @@ events:
       - "link"
     candidate_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -146,6 +149,8 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/LAPTOP/AppData/Local/Microsoft/WindowsApps/"
@@ -153,15 +158,16 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/Programs/Antigravity/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/cursor/resources/app/bin/"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.com"
     found: "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
-        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
@@ -171,6 +177,8 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -179,6 +187,7 @@ events:
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Antigravity\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\LAPTOP\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "C:\\Dev\\SDK\\flutter\\bin\\mingit\\cmd"
   -
     kind: "find-v1"
@@ -203,9 +212,9 @@ events:
       - "lld-link"
     candidate_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -215,6 +224,8 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/LAPTOP/AppData/Local/Microsoft/WindowsApps/"
@@ -222,20 +233,21 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/Programs/Antigravity/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/cursor/resources/app/bin/"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link.exe"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lld-link"
+      - "C:/Dev/SDK/flutter/bin/lld-link.com"
+      - "C:/Dev/SDK/flutter/bin/lld-link.exe"
+      - "C:/Dev/SDK/flutter/bin/lld-link"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link.com"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link.exe"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link.com"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link.exe"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/lld-link"
-      - "C:/Dev/SDK/flutter/bin/lld-link.com"
-      - "C:/Dev/SDK/flutter/bin/lld-link.exe"
-      - "C:/Dev/SDK/flutter/bin/lld-link"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/lld-link.com"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/lld-link.exe"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/lld-link"
@@ -263,6 +275,12 @@ events:
       - "C:/Program Files/Git/cmd/lld-link.com"
       - "C:/Program Files/Git/cmd/lld-link.exe"
       - "C:/Program Files/Git/cmd/lld-link"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/lld-link.com"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/lld-link.exe"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/lld-link"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/lld-link.com"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/lld-link.exe"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/lld-link"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/lld-link.com"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/lld-link.exe"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/lld-link"
@@ -284,15 +302,18 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/lld-link.com"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/lld-link.exe"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/lld-link"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/lld-link.com"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/lld-link.exe"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/lld-link"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/lld-link.com"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/lld-link.exe"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/lld-link"
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
-        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
@@ -302,6 +323,8 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -310,6 +333,7 @@ events:
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Antigravity\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\LAPTOP\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "C:\\Dev\\SDK\\flutter\\bin\\mingit\\cmd"
   -
     kind: "find-v1"
@@ -332,9 +356,9 @@ events:
       - "link"
     candidate_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -344,6 +368,8 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/LAPTOP/AppData/Local/Microsoft/WindowsApps/"
@@ -351,15 +377,16 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/Programs/Antigravity/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/cursor/resources/app/bin/"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.com"
     found: "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/link.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
-        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
@@ -369,6 +396,8 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -377,6 +406,7 @@ events:
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Antigravity\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\LAPTOP\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "C:\\Dev\\SDK\\flutter\\bin\\mingit\\cmd"
   -
     kind: "find-v1"
@@ -399,9 +429,9 @@ events:
       - "mt"
     candidate_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -411,6 +441,8 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/LAPTOP/AppData/Local/Microsoft/WindowsApps/"
@@ -418,20 +450,21 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/Programs/Antigravity/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/cursor/resources/app/bin/"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt.com"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt.exe"
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/mt"
+      - "C:/Dev/SDK/flutter/bin/mt.com"
+      - "C:/Dev/SDK/flutter/bin/mt.exe"
+      - "C:/Dev/SDK/flutter/bin/mt"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/mt.com"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/mt.exe"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/mt"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/mt.com"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/mt.exe"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/mt"
-      - "C:/Dev/SDK/flutter/bin/mt.com"
-      - "C:/Dev/SDK/flutter/bin/mt.exe"
-      - "C:/Dev/SDK/flutter/bin/mt"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/mt.com"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/mt.exe"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/mt"
@@ -459,6 +492,12 @@ events:
       - "C:/Program Files/Git/cmd/mt.com"
       - "C:/Program Files/Git/cmd/mt.exe"
       - "C:/Program Files/Git/cmd/mt"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/mt.com"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/mt.exe"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/mt"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/mt.com"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/mt.exe"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/mt"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/mt.com"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/mt.exe"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/mt"
@@ -480,15 +519,18 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/mt.com"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/mt.exe"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/mt"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/mt.com"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/mt.exe"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/mt"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/mt.com"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/mt.exe"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/mt"
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
-        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
@@ -498,6 +540,8 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -506,6 +550,7 @@ events:
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Antigravity\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\LAPTOP\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "C:\\Dev\\SDK\\flutter\\bin\\mingit\\cmd"
   -
     kind: "find-v1"
@@ -528,9 +573,9 @@ events:
       - "lib"
     candidate_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/"
+      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -540,6 +585,8 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/LAPTOP/AppData/Local/Microsoft/WindowsApps/"
@@ -547,15 +594,16 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/Programs/Antigravity/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/cursor/resources/app/bin/"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/"
     searched_directories:
       - "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lib.com"
     found: "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.50.35717/bin/Hostx64/x64/lib.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
-        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
@@ -565,6 +613,8 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -573,6 +623,7 @@ events:
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Antigravity\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\LAPTOP\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "C:\\Dev\\SDK\\flutter\\bin\\mingit\\cmd"
   -
     kind: "find-v1"
@@ -597,9 +648,9 @@ events:
     names:
       - "rc"
     candidate_directories:
+      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/"
-      - "C:/Dev/SDK/flutter/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/"
       - "C:/Windows/System32/"
       - "C:/Windows/"
@@ -609,6 +660,8 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files/Docker/Docker/resources/bin/"
       - "C:/Program Files/Git/cmd/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/LAPTOP/AppData/Local/Microsoft/WindowsApps/"
@@ -616,6 +669,7 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/Programs/Antigravity/bin/"
       - "C:/Users/LAPTOP/AppData/Local/Programs/cursor/resources/app/bin/"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
@@ -630,15 +684,15 @@ events:
       - "C:/Program Files/acadexa/sbin/"
       - "C:/Program Files/acadexa/"
     searched_directories:
+      - "C:/Dev/SDK/flutter/bin/rc.com"
+      - "C:/Dev/SDK/flutter/bin/rc.exe"
+      - "C:/Dev/SDK/flutter/bin/rc"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/rc.com"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/rc.exe"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/rc"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/rc.com"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/rc.exe"
       - "C:/Users/LAPTOP/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/copilotCli/rc"
-      - "C:/Dev/SDK/flutter/bin/rc.com"
-      - "C:/Dev/SDK/flutter/bin/rc.exe"
-      - "C:/Dev/SDK/flutter/bin/rc"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/rc.com"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/rc.exe"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Microsoft VS Code/rc"
@@ -666,6 +720,12 @@ events:
       - "C:/Program Files/Git/cmd/rc.com"
       - "C:/Program Files/Git/cmd/rc.exe"
       - "C:/Program Files/Git/cmd/rc"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/rc.com"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/rc.exe"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/Scripts/rc"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/rc.com"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/rc.exe"
+      - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python311/rc"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/rc.com"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/rc.exe"
       - "C:/Users/LAPTOP/AppData/Local/Programs/Python/Python314/Scripts/rc"
@@ -687,6 +747,9 @@ events:
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/rc.com"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/rc.exe"
       - "C:/Users/LAPTOP/AppData/Local/GitHubDesktop/bin/rc"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/rc.com"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/rc.exe"
+      - "C:/Users/LAPTOP/.vscode/extensions/ms-python.debugpy-2026.6.0-win32-x64/bundled/scripts/noConfigScripts/rc"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/rc.com"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/rc.exe"
       - "C:/Dev/SDK/flutter/bin/mingit/cmd/rc"
@@ -729,9 +792,9 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
         - "c:\\Users\\LAPTOP\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli"
-        - "C:\\Dev\\SDK\\flutter\\bin\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Microsoft VS Code"
         - "C:\\Windows\\system32"
         - "C:\\Windows"
@@ -741,6 +804,8 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
         - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\"
+        - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python311\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Python\\Python314\\"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Microsoft\\WindowsApps"
@@ -749,6 +814,7 @@ events:
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\Antigravity\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin"
         - "C:\\Users\\LAPTOP\\AppData\\Local\\GitHubDesktop\\bin"
+        - "c:\\Users\\LAPTOP\\.vscode\\extensions\\ms-python.debugpy-2026.6.0-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "C:\\Dev\\SDK\\flutter\\bin\\mingit\\cmd"
       CMAKE_INSTALL_PREFIX: "C:/Program Files/acadexa"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -765,8 +831,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-j2gza6"
-      binary: "C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-j2gza6"
+      source: "C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-r7rsgv"
+      binary: "C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-r7rsgv"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -776,39 +842,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-j2gza6'
+        Change Dir: 'C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-r7rsgv'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_038f3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2cdc8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=18.0 /v:n
         MSBuild version 18.4.0+6e61e96ac for .NET Framework
-        Build started 5/16/2026 6:08:14 AM.
+        Build started 5/16/2026 4:34:11 PM.
         
-        Project "C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-j2gza6\\cmTC_038f3.vcxproj" on node 1 (default targets).
+        Project "C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-r7rsgv\\cmTC_2cdc8.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-j2gza6\\Debug\\".
-          Creating directory "cmTC_038f3.dir\\Debug\\cmTC_038f3.tlog\\".
+          Creating directory "C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-r7rsgv\\Debug\\".
+          Creating directory "cmTC_2cdc8.dir\\Debug\\cmTC_2cdc8.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_038f3.dir\\Debug\\cmTC_038f3.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_038f3.dir\\Debug\\cmTC_038f3.tlog\\unsuccessfulbuild".
+          Creating "cmTC_2cdc8.dir\\Debug\\cmTC_2cdc8.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_2cdc8.dir\\Debug\\cmTC_2cdc8.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_038f3.dir\\Debug\\\\" /Fd"cmTC_038f3.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_2cdc8.dir\\Debug\\\\" /Fd"cmTC_2cdc8.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.50.35726 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_038f3.dir\\Debug\\\\" /Fd"cmTC_038f3.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_2cdc8.dir\\Debug\\\\" /Fd"cmTC_2cdc8.dir\\Debug\\vc145.pdb" /external:W3 /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-j2gza6\\Debug\\cmTC_038f3.exe" /INCREMENTAL /ILK:"cmTC_038f3.dir\\Debug\\cmTC_038f3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-j2gza6/Debug/cmTC_038f3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-j2gza6/Debug/cmTC_038f3.lib" /MACHINE:X64  /machine:x64 cmTC_038f3.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_038f3.vcxproj -> C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-j2gza6\\Debug\\cmTC_038f3.exe
+          C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.50.35717\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-r7rsgv\\Debug\\cmTC_2cdc8.exe" /INCREMENTAL /ILK:"cmTC_2cdc8.dir\\Debug\\cmTC_2cdc8.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-r7rsgv/Debug/cmTC_2cdc8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Dev/Projects/acadexa/build/windows/x64/CMakeFiles/CMakeScratch/TryCompile-r7rsgv/Debug/cmTC_2cdc8.lib" /MACHINE:X64  /machine:x64 cmTC_2cdc8.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_2cdc8.vcxproj -> C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-r7rsgv\\Debug\\cmTC_2cdc8.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_038f3.dir\\Debug\\cmTC_038f3.tlog\\unsuccessfulbuild".
-          Touching "cmTC_038f3.dir\\Debug\\cmTC_038f3.tlog\\cmTC_038f3.lastbuildstate".
-        Done Building Project "C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-j2gza6\\cmTC_038f3.vcxproj" (default targets).
+          Deleting file "cmTC_2cdc8.dir\\Debug\\cmTC_2cdc8.tlog\\unsuccessfulbuild".
+          Touching "cmTC_2cdc8.dir\\Debug\\cmTC_2cdc8.tlog\\cmTC_2cdc8.lastbuildstate".
+        Done Building Project "C:\\Dev\\Projects\\acadexa\\build\\windows\\x64\\CMakeFiles\\CMakeScratch\\TryCompile-r7rsgv\\cmTC_2cdc8.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:02.41
+        Time Elapsed 00:00:01.25
         
       exitCode: 0
   -
