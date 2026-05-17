@@ -8,3 +8,7 @@ C:/Dev/Projects/acadexa/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
 C:/Dev/Projects/acadexa/build/windows/x64/runner/CMakeFiles/acadexa.dir
 C:/Dev/Projects/acadexa/build/windows/x64/runner/CMakeFiles/INSTALL.dir
 C:/Dev/Projects/acadexa/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/Dev/Projects/acadexa/build/windows/x64/plugins/jni/CMakeFiles/INSTALL.dir
+C:/Dev/Projects/acadexa/build/windows/x64/plugins/jni/CMakeFiles/ALL_BUILD.dir
+C:/Dev/Projects/acadexa/build/windows/x64/plugins/jni/shared/CMakeFiles/INSTALL.dir
+C:/Dev/Projects/acadexa/build/windows/x64/plugins/jni/shared/CMakeFiles/ALL_BUILD.dir
